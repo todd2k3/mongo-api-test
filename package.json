@@ -1,0 +1,24 @@
+{
+  "name": "mongo-api-test",
+  "version": "1.0.0",
+  "description": "API Development for MongoDB",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/todd2k3/mongo-api-test.git"
+  },
+  "author": "Todd M McClintic",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/todd2k3/mongo-api-test/issues"
+  },
+  "homepage": "https://github.com/todd2k3/mongo-api-test#readme",
+  "dependencies": {
+    "mongodb": "^6.5.0",
+    "nvm": "^0.0.4"
+  }
+}
